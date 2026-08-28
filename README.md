@@ -19,11 +19,15 @@ I work at the intersection of **data, research, and development**. My day-to-day
 
 ## 🛠️ Skills & Toolkit
 
-| Statistical Software | Programming / Tools |
-|----------------------|---------------------|
-| Stata                | Python · pandas · pyreadstat · openpyxl |
-|                      | Excel / spreadsheets |
-|                      | Git · GitHub · Jupyter / Colab |
+- **Stata** 📊 — Statistical analysis & survey data management  
+- **Python** 🐍 — Data analysis, automation, scripting  
+- **HTML** 🌐 — Web development basics  
+- **Excel (VBA)** 📈 — Automation, macros, workflow optimization  
+- **SurveyCTO** 📋 — Digital survey design & field data collection  
+- **ODK** 📋 — Open Data Kit for mobile data collection  
+- **KoboToolbox** 📝 — Humanitarian survey & dataset management  
+- **QGIS** 🗺️ — Geospatial analysis & mapping  
+- **Power BI** 📊 — Business intelligence & visualization  
 
 **Data skills:** survey form programming, survey data cleaning & management, data visualization
 
