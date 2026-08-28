@@ -19,15 +19,17 @@ I work at the intersection of **data, research, and development**. My day-to-day
 
 ## 🛠️ Skills & Toolkit
 
-- **Stata** 📊 — Statistical analysis & survey data management  
-- **Python** 🐍 — Data analysis, automation, scripting  
-- **HTML** 🌐 — Web development basics  
-- **Excel (VBA)** 📈 — Automation, macros, workflow optimization  
-- **SurveyCTO** 📋 — Digital survey design & field data collection  
-- **ODK** 📋 — Open Data Kit for mobile data collection  
-- **KoboToolbox** 📝 — Humanitarian survey & dataset management  
-- **QGIS** 🗺️ — Geospatial analysis & mapping  
-- **Power BI** 📊 — Business intelligence & visualization  
+## 🛠️ Skills & Technologies
+
+![Stata](https://img.shields.io/badge/Stata-Software-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-🐍-yellow?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-VBA-green?style=for-the-badge)
+![SurveyCTO](https://img.shields.io/badge/SurveyCTO-DataCollection-lightgrey?style=for-the-badge)
+![ODK](https://img.shields.io/badge/ODK-OpenDataKit-blueviolet?style=for-the-badge)
+![KoboToolbox](https://img.shields.io/badge/KoboToolbox-Surveys-success?style=for-the-badge)
+![QGIS](https://img.shields.io/badge/QGIS-GeospatialAnalysis-brightgreen?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/PowerBI-BusinessIntelligence-yellowgreen?style=for-the-badge)  
 
 **Data skills:** survey form programming, survey data cleaning & management, data visualization
 
