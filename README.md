@@ -1,4 +1,4 @@
-# Hi there, I'm Mehedy Hasan
+# Hi there, I'm Mehedy!
 
 **Research Assistant @ [ARCED Foundation](https://arced.foundation)** · Economics Graduate · Aspiring Economist
 
