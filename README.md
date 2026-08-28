@@ -19,17 +19,16 @@ I work at the intersection of **data, research, and development**. My day-to-day
 
 ## 🛠️ Skills & Toolkit
 
-## 🛠️ Skills & Technologies
-
-![Stata](https://img.shields.io/badge/Stata-Software-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-🐍-yellow?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-VBA-green?style=for-the-badge)
-![SurveyCTO](https://img.shields.io/badge/SurveyCTO-DataCollection-lightgrey?style=for-the-badge)
-![ODK](https://img.shields.io/badge/ODK-OpenDataKit-blueviolet?style=for-the-badge)
-![KoboToolbox](https://img.shields.io/badge/KoboToolbox-Surveys-success?style=for-the-badge)
-![QGIS](https://img.shields.io/badge/QGIS-GeospatialAnalysis-brightgreen?style=for-the-badge)
-![PowerBI](https://img.shields.io/badge/PowerBI-BusinessIntelligence-yellowgreen?style=for-the-badge)  
+![Stata](https://img.shields.io/badge/Stata-323330?style=flat-square&logo=stata&logoColor=white)
+![Python](https://img.shields.io/badge/Python-323330?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-323330?style=flat-square&logo=html5&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-323330?style=flat-square&logo=microsoft-excel&logoColor=white)
+![SurveyCTO](https://img.shields.io/badge/SurveyCTO-323330?style=flat-square&logo=data&logoColor=white)
+![ODK](https://img.shields.io/badge/ODK-323330?style=flat-square&logo=opensourceinitiative&logoColor=white)
+![KoboToolbox](https://img.shields.io/badge/KoboToolbox-323330?style=flat-square&logo=researchgate&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-323330?style=flat-square&logo=qgis&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-323330?style=flat-square&logo=power-bi&logoColor=white)
+ 
 
 **Data skills:** survey form programming, survey data cleaning & management, data visualization
 
