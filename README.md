@@ -38,8 +38,9 @@ I work at the intersection of **data, research, and development**. My day-to-day
 
 | Project | Description |
 |---------|-------------|
-| [**SurveyForm2Word**](https://github.com/mehedy0905/surveyform2word) | Converts XLSForm (SurveyCTO / ODK) surveys into polished, print-ready Word documents — bilingual (English & Bangla), runs directly in Google Colab. |
-| [**Codebook Generator**](https://github.com/mehedy0905/codebook-generator) | Automatically builds an Excel codebook from Stata `.dta` / Excel survey files — variable names, labels, observation & missing counts. |
+| [**SurveyForm2Word**](https://github.com/mehedy0905/surveyform2word) | Converts XLSForm (SurveyCTO / ODK) surveys into polished, print-ready Word documents - bilingual (English & Bangla), runs directly in Google Colab. |
+| [**Codebook Generator**](https://github.com/mehedy0905/codebook-generator) | Automatically builds an Excel codebook from Stata `.dta` / Excel survey files - variable names, labels, observation & missing counts. |
+| [**statatemplate**](https://github.com/mehedy0905/statatemplate) | The `newdo` Stata command - installs your do-file template from GitHub and opens it in the Do-file Editor. |
 
 > More research & analysis projects coming soon.
 
