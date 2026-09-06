@@ -38,10 +38,10 @@ I work at the intersection of **data, research, and development**. My day-to-day
 
 | Project | Description |
 |---------|-------------|
-| [**GRE Prep**](https://github.com/mehedy0905/gre-prep) | Personal **GRE vocabulary & math** flashcard app with SM-2 spaced repetition. PWA + Android APK - random daily revision on the home screen, quiz mode, and weak-spot drills. |
 | [**SurveyForm2Word**](https://github.com/mehedy0905/surveyform2word) | Converts XLSForm (SurveyCTO / ODK) surveys into polished, print-ready Word documents - bilingual (English & Bangla), runs directly in Google Colab. |
 | [**Codebook Generator**](https://github.com/mehedy0905/codebook-generator) | Automatically builds an Excel codebook from Stata `.dta` / Excel survey files - variable names, labels, observation & missing counts. |
 | [**statatemplate**](https://github.com/mehedy0905/statatemplate) | The `newdo` Stata command - installs your do-file template from GitHub and opens it in the Do-file Editor. |
+| [**GRE Prep**](https://github.com/mehedy0905/gre-prep) | Personal **GRE vocabulary & math** flashcard app with SM-2 spaced repetition. PWA + Android APK - random daily revision on the home screen, quiz mode, and weak-spot drills. |
 
 > More research, apps & experimental projects on the way.
 
