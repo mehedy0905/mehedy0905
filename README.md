@@ -42,7 +42,6 @@ I work at the intersection of **data, research, and development**. My day-to-day
 | [**SurveyForm2Word**](https://github.com/mehedy0905/surveyform2word) | Converts XLSForm (SurveyCTO / ODK) surveys into polished, print-ready Word documents - bilingual (English & Bangla), runs directly in Google Colab. |
 | [**Codebook Generator**](https://github.com/mehedy0905/codebook-generator) | Automatically builds an Excel codebook from Stata `.dta` / Excel survey files - variable names, labels, observation & missing counts. |
 | [**statatemplate**](https://github.com/mehedy0905/statatemplate) | The `newdo` Stata command - installs your do-file template from GitHub and opens it in the Do-file Editor. |
-| [**Snake Game**](https://github.com/mehedy0905/snake-game) *(private)* | Offline-ready **Snake game** for web & Android - vanilla JavaScript PWA + native Capacitor APK with leaderboard, progressive difficulty, and bonus dots. |
 
 > More research, apps & experimental projects on the way.
 
