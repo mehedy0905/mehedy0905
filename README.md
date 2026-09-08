@@ -2,7 +2,7 @@
 
 **Research Assistant @ [ARCED Foundation](https://arced.foundation)** · Economics Graduate · Aspiring Economist
 
-I work at the intersection of **data, research, and development**. My day-to-day involves cleaning survey data, building reproducible workflows, and turning raw data into clear insights for development research.
+I work at the intersection of **data, research, and development**. Day to day, that means designing survey tools, cleaning messy field data, and building workflows I can trust and reuse, all in service of turning raw numbers into insights that actually inform decisions. Over the past two years, I've supported large-scale field research across Bangladesh in partnership with the World Bank, Stanford University, UC San Diego, and Tufts University. Most of what I build along the way, from data cleaning scripts to analysis pipelines, ends up here on my GitHub, so feel free to look around.
 
 ---
 ## 🎯 Education
