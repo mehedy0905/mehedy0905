@@ -2,7 +2,7 @@
 
 **Research Assistant @ [ARCED Foundation](https://arced.foundation)** · Economics Graduate · Aspiring Economist
 
-I work at the intersection of **data, research, and development**. Day to day, that means designing survey tools, cleaning messy field data, and building workflows I can trust and reuse, all in service of turning raw numbers into insights that actually inform decisions. Over the past two years, I've supported large-scale field research across Bangladesh in partnership with the World Bank, Stanford University, UC San Diego, and Tufts University. Most of what I build along the way, from data cleaning scripts to analysis pipelines, ends up here on my GitHub, so feel free to look around.
+Currently I am serving as a Research Assistant at ARCED Foundation, contributing to research and data initiatives aligned with the organization's mission to provide tools and services for research, training, and monitoring in socio-economic development. Holds a Bachelor of Social Science in Economics from East West University and is pursuing an MSc in Mathematics at Ahsanullah University of Science and Technology.  
 
 ---
 ## 🎯 Education
