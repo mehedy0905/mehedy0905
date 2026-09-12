@@ -2,10 +2,11 @@
 
 **Research Assistant @ [ARCED Foundation](https://arced.foundation)** · Economics Graduate · Aspiring Economist
 
-Currently I am serving as a Research Assistant at ARCED Foundation, contributing to research and data initiatives aligned with the organization's mission to provide tools and services for research, training, and monitoring in socio-economic development. Holds a Bachelor of Social Science in Economics from East West University and is pursuing an MSc in Mathematics at Ahsanullah University of Science and Technology.  
+Currently I am serving as a Research Assistant at ARCED Foundation, contributing to research and data initiatives aligned with the organization's mission to provide tools and services for research, training, and monitoring in socio-economic development. I hold a Bachelor of Social Science in Economics from East West University and is pursuing an MSc in Mathematics at Ahsanullah University of Science and Technology.  
 
 ---
 ## 🎯 Education
+-Master of Science in Mathematics, Ahsanullah University of Science and Technology
 - Bachelor of Social Science in Economics, East West University
 
 ---
