@@ -6,7 +6,7 @@ Currently I am serving as a Research Assistant at ARCED Foundation, contributing
 
 ---
 ## 🎯 Education
--Master of Science in Mathematics, Ahsanullah University of Science and Technology
+- Master of Science in Mathematics, Ahsanullah University of Science and Technology
 - Bachelor of Social Science in Economics, East West University
 
 ---
